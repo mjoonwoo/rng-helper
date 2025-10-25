@@ -1,0 +1,20 @@
+{
+  "name": "rng-helper",
+  "version": "0.1.0",
+  "description": "A lightweight random utility library for game development",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": ["random", "rng", "game", "utility", "probability"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjoonwoo/rng-helper.git"
+  },
+  "author": "mjoonwoo",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
+}
